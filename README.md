@@ -1,8 +1,4 @@
-# TravelPlanner
-予定計画のお供に
-
-
-# 旅行予定アプリ (Travel Planner)
+# 予定計画のお供に (Travel Planner)
 
 Javaで作成した旅行用スケジュール管理アプリです。
 コンソール上で以下の操作が可能です：
